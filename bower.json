@@ -1,0 +1,22 @@
+{
+  "name": "webpack sample project",
+  "description": "react",
+  "main": "index.js",
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "./lib"
+  ],
+  "devDependencies": {
+    "jquery": "^3.2.1"
+  },
+  "private": true,
+  "authors": [
+    "maqian <maqian@up366.com>"
+  ]
+}
